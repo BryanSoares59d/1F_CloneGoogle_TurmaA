@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: #FFF;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 15px
+}
